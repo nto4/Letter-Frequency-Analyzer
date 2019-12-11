@@ -1,0 +1,10 @@
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\bin\Debug\Kriptoloji-2.ödev-121180015.exe.config
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\bin\Debug\Kriptoloji-2.ödev-121180015.exe
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\bin\Debug\Kriptoloji-2.ödev-121180015.pdb
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\obj\Debug\Kriptoloji-2.ödev-121180015.csprojAssemblyReference.cache
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\obj\Debug\Kriptoloji_2.ödev_121180015.Form1.resources
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\obj\Debug\Kriptoloji_2.ödev_121180015.Properties.Resources.resources
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\obj\Debug\Kriptoloji-2.ödev-121180015.csproj.GenerateResource.cache
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\obj\Debug\Kriptoloji-2.ödev-121180015.csproj.CoreCompileInputs.cache
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\obj\Debug\Kriptoloji-2.ödev-121180015.exe
+C:\Users\nto_9\source\repos\Kriptoloji-2.ödev-121180015\Kriptoloji-2.ödev-121180015\obj\Debug\Kriptoloji-2.ödev-121180015.pdb
